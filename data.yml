@@ -1,0 +1,15 @@
+minecraftServers:
+  BUTLAND:
+    name: BUTLAND
+    image: >-
+      https://cdn.dribbble.com/userupload/5827102/file/original-9b2fa8754ba2d26f2a34d17c791a2c0c.png?resize=400x300&vertical=center
+    ip: 82.65.207.221:255
+websites:
+  official_website:
+    name: Site officiel
+    image: https://nazel-launcher.web.app/pictures/screen.png
+    url: https://nazel-launcher.web.app
+  skins_configurators:
+    name: Configurateur de skins
+    image: http://82.65.207.221:81/avatar/1
+    url: http://82.65.207.221:81/

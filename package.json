@@ -1,0 +1,20 @@
+{
+  "name": "nazel-bot",
+  "version": "1.0.0",
+  "description": "A discord bot who show all server status of the nazel launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "deploycommands": "node tools/deploy-commands.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thibault Falezan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
